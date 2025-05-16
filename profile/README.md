@@ -12,7 +12,7 @@
 
 | 项目名 | 简介 |
 |--------|------|
-| [SCAI]([https://github.com/Scihub-Community/scihub-core](https://search.scai.sh/)) | 一个用于构建科学人工智能代理的框架，用于协作并解决复杂的研究问题 |
+| [SCAI](https://search.scai.sh/) | 一个用于构建科学人工智能代理的框架，用于协作并解决复杂的研究问题 |
 | [De-SciHub](https://desci-hub.com/) | 各大项目质押&捐赠 |
 
 
