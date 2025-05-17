@@ -18,10 +18,8 @@ Welcome to the **Scihub-Community** organization! We are committed to advancing 
 
 | 项目名 | 简介 |
 |--------|------|
-| [SCAI](https://search.scai.sh/) | A framework for building scientific AI agents to collaborate and solve complex research problems
- |
-| [De-SciHub](https://desci-hub.com/) | Staking and donation platform for major projects
- |
+| [SCAI](https://search.scai.sh/) | A framework for building scientific AI agents to collaborate and solve complex research problems|
+| [De-SciHub](https://desci-hub.com/) | Staking and donation platform for major projects|
 
 
 ## 🧑‍💻 Join Us
