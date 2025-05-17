@@ -41,5 +41,5 @@ We embrace the values of openness, transparency, and collaboration to build the 
 - **SCAI Core Contributor（zc）:**  
   `9pjiPKiyDLHXRRGUu4udCceF3vj3EY6hZH3jdS9vEbkH`
 
-- **SCAI Core Contract Contributor（keien）:**  
+- **Contract Core Contributor（keien）:**  
   `5beR4SfTQ4YRvUfUG5eDTic66nAntwAZzTqA6SqsZxkw`
