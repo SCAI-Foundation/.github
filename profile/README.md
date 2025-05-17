@@ -32,6 +32,14 @@ We welcome developers, researchers, designers, and enthusiasts to join us:
 
 ## ❤️ Open Source Spirit
 We embrace the values of openness, transparency, and collaboration to build the future together.
-Donation Address (SOL):
-CTO Team: Cfy5rFwmU2fe43YbR79F1Nsm1REZ9DurQ3aoKhP6ANgt
-SCAI: 9pjiPKiyDLHXRRGUu4udCceF3vj3EY6hZH3jdS9vEbkH
+
+### 🫴 Donation Addresses (SOL)
+
+- **CTO Team (Foundation Address):**  
+  `Cfy5rFwmU2fe43YbR79F1Nsm1REZ9DurQ3aoKhP6ANgt`
+
+- **SCAI Core Contributor（zc）:**  
+  `9pjiPKiyDLHXRRGUu4udCceF3vj3EY6hZH3jdS9vEbkH`
+
+- **SCAI Core Contract Contributor（keien）:**  
+  `5beR4SfTQ4YRvUfUG5eDTic66nAntwAZzTqA6SqsZxkw`
