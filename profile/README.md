@@ -10,6 +10,8 @@
 
 ## 📂 组织项目一览
 
+![relationship](./static/relationship.png)
+
 | 项目名 | 简介 |
 |--------|------|
 | [SCAI](https://search.scai.sh/) | 一个用于构建科学人工智能代理的框架，用于协作并解决复杂的研究问题 |
