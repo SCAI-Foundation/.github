@@ -1,30 +1,36 @@
 # Scihub-Community
 
-欢迎来到 **Scihub-Community** 组织！我们致力于推动开源创新，打造 Web3、区块链、去中心化应用等前沿项目。
+Welcome to the **Scihub-Community** organization! We are committed to advancing open-source innovation and building cutting-edge projects in Web3, blockchain, and decentralized applications.
 
-## 🔥 我们正在做的事情
+- 🌍 Make Science Great Again!
+- 🎁 Donated 20% supply to Sci-Hub
+- 📚 $scihub_ca: GxdTh6udNstGmLLk9ztBb6bkrms7oLbrJp5yzUaVpump
 
-- 🌐 开发去中心化协议与基础设施
-- 🧠 研究区块链治理机制与代币经济模型
-- 🚀 推进高质量 Web3 项目的孵化和落地
+## 🔥 What We Are Working On
 
-## 📂 组织项目一览
+- 🌐 Developing decentralized protocols and infrastructure
+- 🧠 Researching blockchain governance mechanisms and tokenomics
+- 🚀 Incubating and launching high-quality Web3 projects
+
+## 📂 Project Overview
 
 ![relationship](./static/relationship.png)
 
 | 项目名 | 简介 |
 |--------|------|
-| [SCAI](https://search.scai.sh/) | 一个用于构建科学人工智能代理的框架，用于协作并解决复杂的研究问题 |
-| [De-SciHub](https://desci-hub.com/) | 各大项目质押&捐赠 |
+| [SCAI](https://search.scai.sh/) | A framework for building scientific AI agents to collaborate and solve complex research problems
+ |
+| [De-SciHub](https://desci-hub.com/) | Staking and donation platform for major projects
+ |
 
 
-## 🧑‍💻 加入我们
-我们欢迎开发者、研究者、设计师和爱好者加入：
+## 🧑‍💻 Join Us
+We welcome developers, researchers, designers, and enthusiasts to join us:
 
-- 📧 联系邮箱：contact@scihub.community
-- 🌐 官网：https://www.scihub.fans/
+- 📧 Email：contact@scihub.community
+- 🌐 Website：https://www.scihub.fans/
 - 📢 Telegram：https://t.co/67N7cpQFen
-- 🐦 X（原 Twitter）：https://x.com/SciHubFans
+- 🐦 X：https://x.com/SciHubFans
 
-## ❤️ 开源精神
-我们秉持开源、透明、协作的理念，共建未来。
+## ❤️ Open Source Spirit
+We embrace the values of openness, transparency, and collaboration to build the future together.
