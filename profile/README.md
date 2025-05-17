@@ -25,7 +25,7 @@ Welcome to the **Scihub-Community** organization! We are committed to advancing 
 ## 🧑‍💻 Join Us
 We welcome developers, researchers, designers, and enthusiasts to join us:
 
-- 📧 Email：contact@scihub.community
+- 📧 Email：scihubdaily@gmail.com
 - 🌐 Website：https://www.scihub.fans/
 - 📢 Telegram：https://t.co/67N7cpQFen
 - 🐦 X：https://x.com/SciHubFans
