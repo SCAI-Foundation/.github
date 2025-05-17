@@ -33,7 +33,7 @@ We welcome developers, researchers, designers, and enthusiasts to join us:
 ## ❤️ Open Source Spirit
 We embrace the values of openness, transparency, and collaboration to build the future together.
 
-### 🫴 Donation Addresses (SOL)
+## 🫴 Donation Addresses (SOL)
 
 - **CTO Team (Foundation Address):**  
   `Cfy5rFwmU2fe43YbR79F1Nsm1REZ9DurQ3aoKhP6ANgt`
