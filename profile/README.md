@@ -5,6 +5,12 @@ Welcome to the **Scihub-Community** organization! We are committed to advancing 
 - 🌍 Make Science Great Again!
 - 🎁 Donated 20% supply to Sci-Hub
 - 📚 $scihub_ca: GxdTh6udNstGmLLk9ztBb6bkrms7oLbrJp5yzUaVpump
+  
+## The Origin Story
+As many of you know, Sci-Hub has been a game-changer in the world of academic research, providing free access to countless scientific papers and empowering researchers worldwide. Inspired by this incredible contribution to open science, we launched $scihub, a meme token on Solana, to honor Sci-Hub’s legacy and bring it into the rapidly growing DeSci (Decentralized Science) movement.
+
+On Nov 16, this journey took an exciting turn when 0xAA discovered $scihub and decided to make a difference. After acquiring 22% of the token supply, a significant portion (20%) was pledged to support Sci-Hub's founder, Alexandra Elbakyan, and sustain the platform that has helped millions of researchers globally.
+
 
 ## 🔥 What We Are Working On
 
@@ -33,6 +39,12 @@ We welcome developers, researchers, designers, and enthusiasts to join us:
 ## ❤️ Open Source Spirit
 We embrace the values of openness, transparency, and collaboration to build the future together.
 
+Thank you for joining us on this journey. With your support, we can make $scihub a meaningful force in both the DeSci space and the broader meme token world.
+
+Let’s unlock the power of community and science together!
+
+
+
 ## 🫴 Donation Addresses (SOL)
 
 - **CTO Team (Foundation Address):**  
@@ -43,3 +55,10 @@ We embrace the values of openness, transparency, and collaboration to build the 
 
 - **Contract Core Contributor（keien）:**  
   `5beR4SfTQ4YRvUfUG5eDTic66nAntwAZzTqA6SqsZxkw`
+
+## Our Vision
+$scihub is more than just a meme token. It's about:
+
+Celebrating the ideals of open science and knowledge sharing.
+Building bridges between the DeSci community and wider audiences.
+Supporting the original Sci-Hub platform through meaningful contributions.
