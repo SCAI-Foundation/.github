@@ -1,6 +1,6 @@
-# Scihub-Community
+# SCAI Foundation
 
-Welcome to the **Scihub-Community** organization! We are committed to advancing open-source innovation and building cutting-edge projects in Web3, blockchain, and decentralized applications.
+Welcome to the **SCAI Foundation** organization! We are committed to advancing open-source innovation and building cutting-edge projects in Web3, blockchain, and decentralized applications.
 
 - 🌍 Make Science Great Again!
 - 🎁 Donated 20% supply to Sci-Hub
