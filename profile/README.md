@@ -1,64 +1,49 @@
-# SCAI Foundation
+# SCAI
 
-Welcome to the **SCAI Foundation** organization! We are committed to advancing open-source innovation and building cutting-edge projects in Web3, blockchain, and decentralized applications.
+Welcome to SCAI, a decentralized academic service provider reshaping the entire academic research lifecycle through AI and Web3 technologies. We aim to provide researchers with:
 
-- 🌍 Make Science Great Again!
-- 🎁 Donated 20% supply to Sci-Hub
-- 📚 $scihub_ca: GxdTh6udNstGmLLk9ztBb6bkrms7oLbrJp5yzUaVpump
-  
-## The Origin Story
-As many of you know, Sci-Hub has been a game-changer in the world of academic research, providing free access to countless scientific papers and empowering researchers worldwide. Inspired by this incredible contribution to open science, we launched $scihub, a meme token on Solana, to honor Sci-Hub’s legacy and bring it into the rapidly growing DeSci (Decentralized Science) movement.
+- ❤️ Efficient and low-cost publishing pathways
+- 🫴 Practical academic tools
+- 📚 A scholar-governed ecosystem
 
-On Nov 16, this journey took an exciting turn when 0xAA discovered $scihub and decided to make a difference. After acquiring 22% of the token supply, a significant portion (20%) was pledged to support Sci-Hub's founder, Alexandra Elbakyan, and sustain the platform that has helped millions of researchers globally.
+SCAI currently has no tokens, but in the foreseeable future, we will build a DAO using token-based voting.
 
+SCAI is still in its early development stage, and we welcome everyone who shares our vision to join us in building it.
 
-## 🔥 What We Are Working On
+## 🌍 Story
 
-- 🌐 Developing decentralized protocols and infrastructure
-- 🧠 Researching blockchain governance mechanisms and tokenomics
-- 🚀 Incubating and launching high-quality Web3 projects
+Scholars are a large and steadily growing group. As of 2025, the global number of higher education students is approximately 264 million. Among them, the total number of master’s and doctoral students worldwide is around 26.4–39.6 million.
 
-## 📂 Project Overview
+Compared to other professions, scholars have unique needs. By 2025, the market for scholar services is valued at $32.1 billion. However, 90% of contributors receive no profits, while publishers dominate with profit margins as high as 35%–40%.
+
+Even more astonishingly, unlike other service industries, publishing services lack competition in quality. Due to scholars’ reliance on publishing outcomes, their experience remains at a low level (e.g., lengthy review processes, page limits), completely failing to meet their actual needs.
+
+Imagine if the profits from scholar services could be largely distributed to true contributors, including reviewers, editors, illustrators, and content auditors. With proper incentives, publishing efficiency and service quality could be accelerated, generating significant economic benefits.
+
+AI and Web3 technologies make this vision possible. Through smart contracts and decentralized storage, we can dismantle the data moats built by publishers. With AI tools and frameworks, we can replace manual processes to efficiently review and manage literature, ultimately creating a scholar-governed, open academic publishing ecosystem.
+
+## 🔥 Products
+
+- 🌐 Decentralized literature repository! (box.scai.sh)
+- 🧠 Semantic-based academic search + literature management tool! (search.scai.sh)
+- 🚀 Decentralized publishing service with scholar incentives! (press.scai.sh)
+- In the future, we will have a [Foundation], [Research Dissemination/Commercialization Platform], [DID Forum], [Decentralized Scholar Profile], [Academic AI Tools], and more!
+
+## 📂 Roadmap
 
 ![relationship](./static/relationship.png)
 
-| 项目名 | 简介 |
-|--------|------|
-| [SCAI](https://search.scai.sh/) | A framework for building scientific AI agents to collaborate and solve complex research problems|
-| [De-SciHub](https://desci-hub.com/) | Staking and donation platform for major projects|
+## 🧑‍💻 Contact Us
 
+📧 Email: noreply@scai.sh  
+🌐 Website: https://www.scai.sh/  
+📢 Telegram: https://t.co/67N7cpQFen  
+🐦 X: https://x.com/SCAI_Agent  
 
-## 🧑‍💻 Join Us
-We welcome developers, researchers, designers, and enthusiasts to join us:
+## 🎁 Donation Addresses (SOL)
 
-- 📧 Email：scihubdaily@gmail.com
-- 🌐 Website：https://www.scihub.fans/
-- 📢 Telegram：https://t.co/67N7cpQFen
-- 🐦 X：https://x.com/SciHubFans
+SCAI Foundation:  
+9pjiPKiyDLHXRRGUu4udCceF3vj3EY6hZH3jdS9vEbkH  
 
-## ❤️ Open Source Spirit
-We embrace the values of openness, transparency, and collaboration to build the future together.
-
-Thank you for joining us on this journey. With your support, we can make $scihub a meaningful force in both the DeSci space and the broader meme token world.
-
-Let’s unlock the power of community and science together!
-
-
-
-## 🫴 Donation Addresses (SOL)
-
-- **CTO Team (Foundation Address):**  
-  `Cfy5rFwmU2fe43YbR79F1Nsm1REZ9DurQ3aoKhP6ANgt`
-
-- **SCAI Core Contributor（zc）:**  
-  `9pjiPKiyDLHXRRGUu4udCceF3vj3EY6hZH3jdS9vEbkH`
-
-- **Contract Core Contributor（keien）:**  
-  `5beR4SfTQ4YRvUfUG5eDTic66nAntwAZzTqA6SqsZxkw`
-
-## Our Vision
-$scihub is more than just a meme token. It's about:
-
-Celebrating the ideals of open science and knowledge sharing.
-Building bridges between the DeSci community and wider audiences.
-Supporting the original Sci-Hub platform through meaningful contributions.
+Contract Core Contributor (keien):  
+5beR4SfTQ4YRvUfUG5eDTic66nAntwAZzTqA6SqsZxkw
