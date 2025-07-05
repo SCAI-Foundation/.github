@@ -26,9 +26,7 @@ The technologies of AI and Web3 make this vision possible. Through smart contrac
 
 - Through collaboration with Irys, we can achieve fully decentralized storage and computation at extremely low costs!
 
-
 - By building a vector database of tens of millions of papers, we enable semantic search and article analysis!
-
 
 - Through a unique multi-agent framework, we create tools and services for scholars!
 
