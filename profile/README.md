@@ -10,7 +10,7 @@ SCAI currently has no tokens, but in the foreseeable future, we will build a DAO
 
 SCAI is still in its early development stage, and we welcome everyone who shares our vision to join us in building it.
 
-## 🌍 Story
+## Story
 
 Scholars are a large and steadily growing group. As of 2025, the global number of higher education students is approximately 264 million. Among them, the total number of master’s and doctoral students worldwide is around 26.4–39.6 million.
 
@@ -20,27 +20,36 @@ Even more astonishingly, unlike other service industries, publishing services la
 
 Imagine if the profits from scholar services could be largely distributed to true contributors, including reviewers, editors, illustrators, and content auditors. With proper incentives, publishing efficiency and service quality could be accelerated, generating significant economic benefits.
 
-AI and Web3 technologies make this vision possible. Through smart contracts and decentralized storage, we can dismantle the data moats built by publishers. With AI tools and frameworks, we can replace manual processes to efficiently review and manage literature, ultimately creating a scholar-governed, open academic publishing ecosystem.
+## Tech
 
-## 🔥 Products
+The technologies of AI and Web3 make this vision possible. Through smart contracts and decentralized storage, we can dismantle the data moats built by publishers; through AI tools and frameworks, we can replace manual processes with efficient literature review and management, ultimately achieving an open academic publisher governed by scholars.
+
+- Through collaboration with Irys, we can achieve fully decentralized storage and computation at extremely low costs!
+
+- By building a vector database of tens of millions of papers, we enable semantic search and article analysis!
+
+- Through a unique multi-agent framework, we create tools and services for scholars!
+
+
+## Products
 
 - 🌐 Decentralized literature repository! (box.scai.sh)
 - 🧠 Semantic-based academic search + literature management tool! (search.scai.sh)
 - 🚀 Decentralized publishing service with scholar incentives! (press.scai.sh)
 - In the future, we will have a [Foundation], [Research Dissemination/Commercialization Platform], [DID Forum], [Decentralized Scholar Profile], [Academic AI Tools], and more!
 
-## 📂 Roadmap
+## Roadmap
 
 ![relationship](./static/relationship.png)
 
-## 🧑‍💻 Contact Us
+## Contact Us
 
 📧 Email: noreply@scai.sh  
 🌐 Website: https://www.scai.sh/  
 📢 Telegram: https://t.co/67N7cpQFen  
 🐦 X: https://x.com/SCAI_Agent  
 
-## 🎁 Donation Addresses (SOL)
+## Donation Addresses (SOL)
 
 SCAI Foundation:  
 9pjiPKiyDLHXRRGUu4udCceF3vj3EY6hZH3jdS9vEbkH  
