@@ -1,5 +1,8 @@
 # SCAI
 
+Website: scai.sh
+App: app.scai.sh
+
 Welcome to SCAI, a decentralized academic service provider reshaping the entire academic research lifecycle through AI and Web3 technologies. We aim to provide researchers with:
 
 - ❤️ Efficient and low-cost publishing pathways
